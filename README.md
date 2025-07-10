@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/rapidappio-rapidapp-mcp-badge.png)](https://mseep.ai/app/rapidappio-rapidapp-mcp)
+
 <h3 align="center">
   <a href="https://rapidapp.io">🏠 Home page</a>
 </h4>
